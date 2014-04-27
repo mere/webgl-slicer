@@ -1,0 +1,29 @@
+{
+  "name": "dlp-slicer",
+  "version": "0.0.1",
+  "description": "WebGL slicer app for dlp 3D printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dlp",
+    "3d printing",
+    "webgl"
+  ],
+  "author": "Zoltan Bourne",
+  "license": "MIT",
+  "dependencies": {
+    "three": "~0.66.2",
+    "browserify-shader": "0.0.1",
+    "topcoat": "~0.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mere/webgl-slicer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mere/webgl-slicer/issues"
+  },
+  "homepage": "https://github.com/mere/webgl-slicer"
+}
